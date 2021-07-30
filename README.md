@@ -3,6 +3,7 @@ Egyetemi házifeladat, mely során én egy internetes újság backendjét kész�
 álló címke (tag) osztály, illetve szintén a cikkekel kapcsolatban álló kép (picture) osztály.
 
 Funkciók:
+
 -entitások hozzáadása, modosítása és törlése
 
 -keresés a cikkek között tagek alapján
