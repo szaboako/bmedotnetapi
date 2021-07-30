@@ -4,8 +4,12 @@ Egyetemi házifeladat, mely során én egy internetes újság backendjét kész�
 
 Funkciók:
 -entitások hozzáadása, modosítása és törlése
+
 -keresés a cikkek között tagek alapján
+
 -authentikáció Azure AD B2C-re (ingyenes szint) építve
+
 -claim alapú hozzáférés-szabályozás, az előbbi authentikációra építve
+
 
 A kódban mysql adatbázis szerepel, mivel feladat volt hogy mssql-től eltérő adatbázist használjunk.
